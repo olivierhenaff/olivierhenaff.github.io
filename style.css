@@ -37,9 +37,13 @@ img {
     margin-right: 40px;
 }
 
-ul {
+ul{
 	margin-top:6px;
 	margin-bottom:6px;
+}
+
+ul li {
+    padding: 5px 0px;
 }
 
 .intro {
