@@ -49,6 +49,7 @@ ul li {
 .intro {
 	max-width: 1000px;
 	/*text-align: justify;*/
+  line-height: 1.4;
 }
 
 
